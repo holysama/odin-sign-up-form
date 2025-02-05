@@ -78,8 +78,8 @@ img[class="logo-image"] {
     align-items: flex-start;
     padding-left: 100px;
     width: 80%;
-    height: 30%;
-    font-size: 2em;
+    height: 25%;
+    font-size: 1.25em;
     line-height: 1.2;
     font-weight: bold;
     color: black;
@@ -90,11 +90,12 @@ img[class="logo-image"] {
     font-weight: lighter;
     font-style: italic;
     margin-bottom: 10px;
+    width: 80%;
 }
 
 .text {
     font-weight: lighter;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 
@@ -104,12 +105,12 @@ img[class="logo-image"] {
     flex-direction: column;
     align-self: center;
     width: min(90%, 900px); 
-    padding: 50px;
+    padding: 45px;
 }
 
 .title-container {
     max-height: 90%;
-    margin-bottom: 1.5%;
+    margin-bottom: 1%;
     font-size: 25px;
 }
 
